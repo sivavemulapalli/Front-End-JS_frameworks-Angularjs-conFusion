@@ -120,5 +120,4 @@ angular.module('confusionApp')
       $scope.leaders = corporateFactory.getLeaders();
     } ])
 
-
 ;
